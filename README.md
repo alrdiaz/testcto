@@ -28,6 +28,13 @@ Se debe desarrollar un algoritmo que permita a cualquier usuario consultar la po
 - population: numero de la población
 
 ## script=>testcto
-script con las opciones de busqueda en la base de datos a travez de la consulta inicial a la base de datos y posteriormente un load a un dataframe para realizar los filtros para las busquedas.
+
+1. Instalar:
+- [sqlalchemy](https://pypi.org/project/SQLAlchemy/)=>pip install SQLAlchemy
+- [pymysql](https://pypi.org/project/PyMySQL/)=>pip install PyMySQL
+2. Correr script:
+**script con las opciones de busqueda en la base de datos a travez de la consulta inicial a la base de datos y posteriormente un load a un dataframe para realizar los filtros para las busquedas.**
+
+
 
 
