@@ -1,0 +1,2 @@
+# testcto
+Se debe desarrollar un algoritmo que permita a cualquier usuario consultar la población por ciudades según el nivel que se consulte, es decir, si se busca un país, se debería mostrar todos sus estados y cada estado sus ciudades con su respectiva población; sí se consulta un estado debe traer el estado con todas sus ciudades y su respectiva población; y por último sí se consulta una ciudad se debe mostrar su población.
