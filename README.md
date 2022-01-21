@@ -4,7 +4,9 @@ Se debe desarrollar un algoritmo que permita a cualquier usuario consultar la po
 ## Base de datos 
 **Crear base de datos local con motor de base de datos mySQL con los siguientes atributos:**
 - nombre: testcto
+- user='root'
 - passwoord:
+- host='localhost'
 - port: 3306
 
 
@@ -20,6 +22,6 @@ Se debe desarrollar un algoritmo que permita a cualquier usuario consultar la po
 - population: numero de la población
 
 ## script=>testcto
-script con las opciones de busqueda en la base de datos a tarvez de la consulta inicial a la base de datos ya cargada y posteriormente un load a un dataframe para realizar los filtros par alas busquedas.
+script con las opciones de busqueda en la base de datos a travez de la consulta inicial a la base de datos y posteriormente un load a un dataframe para realizar los filtros para las busquedas.
 
 
