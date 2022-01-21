@@ -17,6 +17,7 @@ Se debe desarrollar un algoritmo que permita a cualquier usuario consultar la po
 - [progress.bar](https://pypi.org/project/progress_bar/)=> pip install progress_bar
 - [mysql.connector](https://pypi.org/project/mysql-connector/) => pip install mysql-connector
 - Script para lectura de archivos .xlsx con la libreria pandas de python.
+2. Correr Script
 - suministrar la ruta local de los archivos suministrados.
 - **se leeran los archivos y basados en sus relaciones de llaves foraneas se creara una tabla con los campos:**
 - id autoincremental
