@@ -14,7 +14,7 @@ Se debe desarrollar un algoritmo que permita a cualquier usuario consultar la po
 1. Instalar:
 - [datetime](https://pypi.org/project/DateTime/) => pip install DateTime
 - [pandas](https://pypi.org/project/pandas/)=> pip install pandas
-- [progress.bar](https://pypi.org/project/progress_bar/)=> pip install progress_bar
+- [progress.bar](https://pypi.org/project/progress/)=> pip install progress
 - [mysql.connector](https://pypi.org/project/mysql-connector/) => pip install mysql-connector
 - Script para lectura de archivos .xlsx con la libreria pandas de python.
 2. Correr Script
